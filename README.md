@@ -18,7 +18,7 @@ During this project, I improved my skills in:
 ## 📄 How to View  
 You can access the project directly through **GitHub Pages**.  
 
-🔗 **[Click here to open the Netflix Homepage Clone](https://harllonmartins.github.io/Netflix-Clone/)**  
+🔗 **[Click here to open the Netflix Homepage Clone](https://harllonmartins.github.io/netflix-clone/)**  
 
 ## 🛠️ Technologies Used  
 - **HTML** for structure  
